@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Nhóm_8 Quản Lý Hồ Sơ Sinh Viên/">
+    <Project Path="Nhóm_8 Quản Lý Hồ Sơ Sinh Viên/QLHSSV.Tests/QLHSSV.Tests.csproj" />
+    <Project Path="Nhóm_8 Quản Lý Hồ Sơ Sinh Viên/QLHSSV_Nhóm8/QLHSSV_Nhóm8.csproj" />
+  </Folder>
+</Solution>
